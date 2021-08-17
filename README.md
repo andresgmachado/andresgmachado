@@ -4,7 +4,7 @@
 	<h1>Olá, me chamo André!</h1>
   <ul>
     <li>🔭 Atualmente estou trabalhando como fullstack C# na Hiper S.A</li>
-    <li>🌱 Estou aprendendo: Vue.js, React, Node.</li>
+    <li>🌱 Estou aprendendo: Vue.js e C# </li>
   </ul
 <div>
   <a href="https://github.com/andresgmachado">
