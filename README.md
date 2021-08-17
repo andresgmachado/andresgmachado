@@ -1,7 +1,7 @@
 
 
 <body>
-	<h1>Olá, me chamo André!</h1>
+	<h1>Olá, me chamo André</h1>
   <ul>
     <li>🔭 Atualmente estou trabalhando como fullstack C# na Hiper S.A</li>
     <li>🌱 Estou aprendendo: Vue.js e C# </li>
