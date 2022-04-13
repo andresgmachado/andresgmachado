@@ -3,8 +3,7 @@
 <body>
 	<h1>Olá, me chamo André</h1>
   <ul>
-    <li>🔭 Atualmente estou trabalhando como desenvolvedor C# .Net na Hiper S.A</li>
-    <li>🌱 Estou aprendendo: Vue.js e C# </li>
+    <li>🔭 Atualmente estou trabalhando como desenvolvedor fullstack .Net / Vue na Hiper S.A</li>
   </ul
 <div>
   <a href="https://github.com/andresgmachado">
